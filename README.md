@@ -54,3 +54,6 @@ Semaa and Yvette worked on every part of the assignment separately and then met 
 * this caused us huge issues in that we couldn't increment it and we weren't able to add or delete it from the application
 * after realoizing that, we had to go back and redo the database in order for it to work 
 * after doing that, we started getting the same issues as the other students were having, such as the 'SQLITE BUSY' errors
+
+## Screenshot of Application
+![Application Screenshot] (https://github.com/coder-chick/BookPalsNodeExpressSQLiteEJS/blob/main/ScreenShotOfApplication.png)
