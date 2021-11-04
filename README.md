@@ -56,4 +56,4 @@ Semaa and Yvette worked on every part of the assignment separately and then met 
 * after doing that, we started getting the same issues as the other students were having, such as the 'SQLITE BUSY' errors
 
 ## Screenshot of Application
-![Application Screenshot] (https://github.com/coder-chick/BookPalsNodeExpressSQLiteEJS/blob/main/ScreenShotOfApplication.png)
+https://github.com/coder-chick/BookPalsNodeExpressSQLiteEJS/blob/main/ScreenShotOfApplication.png
