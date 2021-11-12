@@ -1,3 +1,4 @@
+// well organized router. I like the comments that explain what each function is used for, which makes it easy to read.
 let express = require("express");
 let router = express.Router();
 
