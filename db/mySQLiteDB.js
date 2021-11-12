@@ -1,3 +1,4 @@
+// I encountered "database is locked" error when performing book creation and deletion. I observed that the problem appears after successfully performing the initial creation operation. I suspect it's because db is not closed in the methods below. Maybe try closing the db using db.close() in each method below? 
 const sqlite3 = require("sqlite3");
 const { open } = require("sqlite");
 
